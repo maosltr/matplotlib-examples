@@ -16,5 +16,4 @@ while True:
 
         writer.writerow([xaxis, random.randint(1,10)])
         xaxis += 1
-        
         time.sleep(1)
