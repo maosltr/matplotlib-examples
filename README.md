@@ -1,5 +1,5 @@
 # matplotlib-examples
 basic matplotlib examples
 
-# Links for documentation
+## Links for documentation
 https://matplotlib.org/
